@@ -1,0 +1,13 @@
+/* center */
+.center-div
+{
+    text-align: center;
+}
+.clock-style{
+    font-family: 'Modak', sans-serif;
+    font-size: 45px;
+}
+/* fonts and stuff */
+h1{
+    font-family: 'Roboto', sans-serif;
+}
